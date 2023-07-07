@@ -1,4 +1,4 @@
-# blackjack
+# Blackjack game
 My first bigger project to recreate simple blackjack game. 
 
 ## Rules of the game:
