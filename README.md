@@ -1,7 +1,7 @@
 # blackjack
 My first bigger project to recreate simple blackjack game. 
 
-#### Rules of the game:
+## Rules of the game:
 #### The deck is unlimited in size. 
 #### There are no jokers. 
 #### The Jack/Queen/King all count as 10.
